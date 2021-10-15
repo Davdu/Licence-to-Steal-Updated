@@ -1,19 +1,34 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Manager : MonoBehaviour
 {
 
+    [Header("Alarm System")]
     public bool AlarmActive = false;
-
-
-
     public GameObject Player1;
     public GameObject Player2;
 
-    public DynamicSplitScreen.Testing.PlayerController ControllerScript1;
-    public DynamicSplitScreen.Testing.PlayerController ControllerScript2;
+    [Header("Money System")]
+    public int TotalCashAmount;
+    public Text MoneyText;
+
+    public GameObject MoneyPickup1;
+    public GameObject MoneyPickup2;
+    public GameObject MoneyPickup3;
+    public GameObject MoneyPickup4;
+    public int MoneyValue1;
+    public int MoneyValue2;
+    public int MoneyValue3;
+    public int MoneyValue4;
+
+
+
+
+    private DynamicSplitScreen.Testing.PlayerController ControllerScript1;
+    private DynamicSplitScreen.Testing.PlayerController ControllerScript2;
 
     private void Awake()
     {
@@ -29,12 +44,15 @@ public class Manager : MonoBehaviour
     {
         Player1 = GameObject.Find("Player1");
         Player2 = GameObject.Find("Player2");
+
+        MoneyText.text = "0$";
     }
 
     // Update is called once per frame
     void Update()
     {
         Alarm();
+        MoneySystem();
     }
 
     void Alarm()
@@ -47,6 +65,13 @@ public class Manager : MonoBehaviour
         {
             AlarmActive = false;
         }
+    }
+
+    void MoneySystem()
+    {
+
+        TotalCashAmount = ControllerScript1.PickedMoney + ControllerScript2.PickedMoney;
+        MoneyText.text = TotalCashAmount.ToString() + "$";
     }
 
 }

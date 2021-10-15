@@ -14,14 +14,14 @@ public class MoneySystem : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        MoneyText.text = "Points:";
+        MoneyText.text = "0$";
     }
 
 
     // Update is called once per frame
     void Update()
     {
-        MoneyText.text = "Points: " + Cash.ToString();
+        MoneyText.text = Cash.ToString() + "$";
     }
 
 }
