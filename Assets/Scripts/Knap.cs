@@ -11,7 +11,10 @@ public class Knap : MonoBehaviour
     public DoorController2 DoorScript;
     public bool PushOnce;
     public bool PermaActivate;
-  
+    public Sprite Rødknap;
+    public Sprite Grønknap;
+    public SpriteRenderer ThisSprite;
+
 
     // Start is called before the first frame update
     private void Awake()
@@ -23,6 +26,7 @@ public class Knap : MonoBehaviour
 
         DoorScript = Door.GetComponent<DoorController2>();
 
+        // ThisSprite = this.GetComponent<SpriteRenderer>();
     }
 
     void Start()
@@ -36,24 +40,28 @@ public class Knap : MonoBehaviour
 
     {
 
-        // hvis en af playerne er inden for range og trykker på Intereact åbner døren, ellers lukker den
-            if (PopUpScript.IndenForRangeP1 == true && Input.GetButton("IntP1") || PopUpScript.IndenForRangeP2 == true && Input.GetButton("IntP2") || PermaActivate == true)
-            {
-                DoorScript.Open = true;
-
+        // hvis en af playerne er inden for range og trykker på Intereact åbner døren
+        if (PopUpScript.IndenForRangeP1 == true && Input.GetButton("IntP1") || PopUpScript.IndenForRangeP2 == true && Input.GetButton("IntP2") || PermaActivate == true)
+        {
+            DoorScript.Open = true;
+            ThisSprite.sprite = Grønknap;
             // hvis ToggleSwitch er på forbliver døren åben permanent 
-            if(PushOnce == true)
+            if (PushOnce == true)
             {
                 PermaActivate = true;
             }
-
-            }
-
-            else
-                DoorScript.Open = false;
+        }
+        // ellers lukker den
+        else
+        {
+            DoorScript.Open = false;
+            ThisSprite.sprite = Rødknap;
+        }
 
     }
 }
+
+
 
 
 
