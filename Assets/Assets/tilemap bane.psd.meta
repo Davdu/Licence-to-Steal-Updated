@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: e04665d6e20464e4baeaea9e31602558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5187986930264812828
+    second: tilemap bane_0
+  - first:
+      213: 2701747293952205932
+    second: tilemap bane_1
+  - first:
+      213: 2665938531839219571
+    second: tilemap bane_2
+  - first:
+      213: -1470779457106815687
+    second: tilemap bane_3
+  - first:
+      213: -7089751163248919423
+    second: tilemap bane_4
+  - first:
+      213: 6739550600385892203
+    second: tilemap bane_5
+  - first:
+      213: -5975178226753849493
+    second: tilemap bane_6
+  - first:
+      213: 2772974539471668491
+    second: tilemap bane_7
+  - first:
+      213: 7386566217703694102
+    second: tilemap bane_8
+  - first:
+      213: 4148155677630286344
+    second: tilemap bane_9
+  - first:
+      213: 1052544966600137068
+    second: tilemap bane_10
+  - first:
+      213: -6027230195472352798
+    second: tilemap bane_11
+  - first:
+      213: -6823764484440514815
+    second: tilemap bane_12
+  - first:
+      213: 9158471351577211426
+    second: tilemap bane_13
+  - first:
+      213: -6254897653548920244
+    second: tilemap bane_14
+  - first:
+      213: -3061690619452160079
+    second: tilemap bane_15
+  - first:
+      213: 187580511584867911
+    second: tilemap bane_16
+  - first:
+      213: -2396498306623678013
+    second: tilemap bane_17
+  - first:
+      213: 5393545346977203556
+    second: tilemap bane_18
+  - first:
+      213: 6976015247883395419
+    second: tilemap bane_19
+  - first:
+      213: 430555096386765560
+    second: tilemap bane_20
+  - first:
+      213: -2330704475804527326
+    second: tilemap bane_21
+  - first:
+      213: 8947292449166335102
+    second: tilemap bane_22
+  - first:
+      213: -523575362069017254
+    second: tilemap bane_23
+  - first:
+      213: -3895081201652426273
+    second: tilemap bane_24
+  - first:
+      213: -2843450450478598101
+    second: tilemap bane_25
+  - first:
+      213: -4738903330236583647
+    second: tilemap bane_26
+  - first:
+      213: 4036375736463730088
+    second: tilemap bane_27
+  - first:
+      213: -8919322296071290238
+    second: tilemap bane_28
+  - first:
+      213: -7954872679548626471
+    second: tilemap bane_29
+  - first:
+      213: 1728011530575157674
+    second: tilemap bane_30
+  - first:
+      213: 5933613515938104200
+    second: tilemap bane_31
+  - first:
+      213: 8092476253118968780
+    second: tilemap bane_32
+  - first:
+      213: -2711809989981824293
+    second: tilemap bane_33
+  - first:
+      213: -1611148330242243936
+    second: tilemap bane_34
+  - first:
+      213: 942436975296351197
+    second: tilemap bane_35
+  - first:
+      213: 152824614099390793
+    second: tilemap bane_36
+  - first:
+      213: -2795129174691727013
+    second: tilemap bane_37
+  - first:
+      213: 9123385316055413766
+    second: tilemap bane_38
+  - first:
+      213: -9098750050285317120
+    second: tilemap bane_39
+  - first:
+      213: -2066331452785029086
+    second: tilemap bane_40
+  - first:
+      213: 7973277504325957974
+    second: tilemap bane_41
+  - first:
+      213: -7296215498488728083
+    second: tilemap bane_42
+  - first:
+      213: -1465179667050975491
+    second: tilemap bane_43
+  - first:
+      213: -1743405342761903548
+    second: tilemap bane_44
+  - first:
+      213: -6425337136186864117
+    second: tilemap bane_45
+  - first:
+      213: -9212928417162067605
+    second: tilemap bane_46
+  - first:
+      213: -6826422845554890724
+    second: tilemap bane_47
+  - first:
+      213: -5358584614445792256
+    second: tilemap bane_48
+  - first:
+      213: 1068663688549928693
+    second: tilemap bane_49
+  - first:
+      213: -3829898769011454635
+    second: tilemap bane_50
+  - first:
+      213: 3142852192629265237
+    second: tilemap bane_51
+  - first:
+      213: -1442498678115131040
+    second: tilemap bane_52
+  - first:
+      213: 327096952346002733
+    second: tilemap bane_53
+  - first:
+      213: -751150133360941831
+    second: tilemap bane_54
+  - first:
+      213: -4347948446113820996
+    second: tilemap bane_55
+  - first:
+      213: 109781862109520264
+    second: tilemap bane_56
+  - first:
+      213: -664976185170500874
+    second: tilemap bane_57
+  - first:
+      213: 1419714899698970927
+    second: tilemap bane_58
+  - first:
+      213: -6087517627419429281
+    second: tilemap bane_59
+  - first:
+      213: 2285703106036492506
+    second: tilemap bane_60
+  - first:
+      213: 7572956812373621148
+    second: tilemap bane_61
+  - first:
+      213: -8334339478314299593
+    second: tilemap bane_62
+  - first:
+      213: 8160962354196734620
+    second: tilemap bane_63
+  - first:
+      213: -2177437510474831664
+    second: tilemap bane_64
+  - first:
+      213: -2776355909303609996
+    second: tilemap bane_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap bane_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e25232cf519008b0800000000000000
+      internalID: -5187986930264812828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e4e079d88e7520800000000000000
+      internalID: 2701747293952205932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779d4f48f05ff420800000000000000
+      internalID: 2665938531839219571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d43450edb69be0800000000000000
+      internalID: -1470779457106815687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cb2a051e42c9d90800000000000000
+      internalID: -7089751163248919423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f85c93091b78d50800000000000000
+      internalID: 6739550600385892203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6730b48f07e31da0800000000000000
+      internalID: -5975178226753849493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 721
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05496cd6a59b7620800000000000000
+      internalID: 2772974539471668491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f112cd6da528660800000000000000
+      internalID: 7386566217703694102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4c266c95319930800000000000000
+      internalID: 4148155677630286344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69935c02146b9e00800000000000000
+      internalID: 1052544966600137068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9bc53221afa5ca0800000000000000
+      internalID: -6027230195472352798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f1ff1fa5e1d41a0800000000000000
+      internalID: -6823764484440514815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f95cab2d691f70800000000000000
+      internalID: 9158471351577211426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42dac559b32239a0800000000000000
+      internalID: -6254897653548920244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b788676a90b285d0800000000000000
+      internalID: -3061690619452160079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 657
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465dcf3b7b6a9200800000000000000
+      internalID: 187580511584867911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9ded0cc7dedbed0800000000000000
+      internalID: -2396498306623678013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4658986bae8b9da40800000000000000
+      internalID: 5393545346977203556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b516ccd48e8cfc060800000000000000
+      internalID: 6976015247883395419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20e583493a9f500800000000000000
+      internalID: 430555096386765560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225124bb0aca7afd0800000000000000
+      internalID: -2330704475804527326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c1816e31b2b2c70800000000000000
+      internalID: 8947292449166335102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dcab27bf2ebb8f0800000000000000
+      internalID: -523575362069017254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 593
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9943cb844e1f9c0800000000000000
+      internalID: -3895081201652426273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287cca61e80a88d0800000000000000
+      internalID: -2843450450478598101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121355867880c3eb0800000000000000
+      internalID: -4738903330236583647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52defb856140830800000000000000
+      internalID: 4036375736463730088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2820379d0a3383480800000000000000
+      internalID: -8919322296071290238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95b06d17d9a9190800000000000000
+      internalID: -7954872679548626471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa916b7e4512bf710800000000000000
+      internalID: 1728011530575157674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88382fb1e0e685250800000000000000
+      internalID: 5933613515938104200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 529
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b074c6404e4070800000000000000
+      internalID: 8092476253118968780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda17c09e27bd5ad0800000000000000
+      internalID: -2711809989981824293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 401
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2827f312d04a9e0800000000000000
+      internalID: -1611148330242243936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 401
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8bbf8f65341d00800000000000000
+      internalID: 942436975296351197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94194544d21fe1200800000000000000
+      internalID: 152824614099390793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593b2923d4b539d0800000000000000
+      internalID: -2795129174691727013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047f707b96cc9e70800000000000000
+      internalID: 9123385316055413766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0041da8590fbab180800000000000000
+      internalID: -9098750050285317120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2201888dd7ae253e0800000000000000
+      internalID: -2066331452785029086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65936fc55a5c6ae60800000000000000
+      internalID: 7973277504325957974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de531ef39a2aeba90800000000000000
+      internalID: -7296215498488728083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 337
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe2d4d0bd2aaabe0800000000000000
+      internalID: -1465179667050975491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a9825e31e2ec7e0800000000000000
+      internalID: -1743405342761903548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec473eaed94d6a0800000000000000
+      internalID: -6425337136186864117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6104f1ba6a152080800000000000000
+      internalID: -9212928417162067605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e614079ca341a0800000000000000
+      internalID: -6826422845554890724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004c5152fab72a5b0800000000000000
+      internalID: -5358584614445792256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe806476f7a4de00800000000000000
+      internalID: 1068663688549928693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dcd5b7c5779dac0800000000000000
+      internalID: -3829898769011454635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553993bea67ad9b20800000000000000
+      internalID: 3142852192629265237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612afd48173bfbe0800000000000000
+      internalID: -1442498678115131040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2542b3f1f41a8400800000000000000
+      internalID: 327096952346002733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a808fee06395f0800000000000000
+      internalID: -751150133360941831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8ca7bcebf8a3c0800000000000000
+      internalID: -4347948446113820996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881a1dd9506068100800000000000000
+      internalID: 109781862109520264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f261dacea785c6f0800000000000000
+      internalID: -664976185170500874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21f2e6ed27d3b310800000000000000
+      internalID: 1419714899698970927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 145
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f567cbd88fac48ba0800000000000000
+      internalID: -6087517627419429281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8ef416dd278bf10800000000000000
+      internalID: 2285703106036492506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 145
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9977ecf81c881960800000000000000
+      internalID: 7572956812373621148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 145
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fcf85d66a765c80800000000000000
+      internalID: -8334339478314299593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926b33c500914170800000000000000
+      internalID: 8160962354196734620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8698bee1038c1e0800000000000000
+      internalID: -2177437510474831664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap bane_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d6ef92076879d0800000000000000
+      internalID: -2776355909303609996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

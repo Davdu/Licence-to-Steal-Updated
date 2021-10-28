@@ -24,11 +24,14 @@ public class DoorController2 : MonoBehaviour
     public bool AutoOpen = false;
     public bool Open = false; //True = Open, False = Close
 
+    public AudioSource DoorMovingSFX;
+    public AudioSource DoorSlamSFX;
 
     private Rigidbody2D rigidbody2d;
-    
+    public bool Ready;
 
-    Vector2 movement;
+
+    public Vector2 movement;
 
     private void Awake()
     {
@@ -42,13 +45,15 @@ public class DoorController2 : MonoBehaviour
         // Saves the starting position of the object
         StartposX = transform.localPosition.x;
         StartposY = transform.localPosition.y;
+        Ready = true;
     }
 
 
     void Update()
     {
- 
+
         Movement();
+        SoundPlayer();
 
     }
 
@@ -61,6 +66,7 @@ public class DoorController2 : MonoBehaviour
             if (transform.localPosition.x >= StartposX + MaxDistX && Open == true || transform.localPosition.x <= StartposX - MinDistX && Open == false)
             {
                 moveX = 0;
+
                 if (transform.localPosition.x >= StartposX + MaxDistX && AutoClose == true)
                 {
                     Open = false;
@@ -115,4 +121,35 @@ public class DoorController2 : MonoBehaviour
 
 
     }
+
+    void SoundPlayer()
+
+    {
+        if (Ready == true)
+        {
+            if (Mathf.Abs(movement.x) >= 1f || Mathf.Abs(movement.y) >= 1f)
+            {
+                DoorMovingSFX.Play();
+                Ready = false;
+            }
+        }
+
+        if (Ready == false)
+        {
+            if (Mathf.Abs(movement.x) == 0 && Mathf.Abs(movement.y) == 0)
+
+            {
+                DoorMovingSFX.Stop();
+                DoorSlamSFX.Play();
+                Ready = true;
+            }
+        }
+    }
 }
+    
+
+    
+
+
+
+

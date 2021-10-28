@@ -9,22 +9,18 @@ public class CCTVRotation : MonoBehaviour
     public float MinAngle;
     public float RotationSpeed;
     public float CurrentAngle;
-
     private float rotationSpeed;
 
 
 
-    // Start is called before the first frame update
     void Start()
     {
-        rotationSpeed = RotationSpeed / 10;
+        rotationSpeed = RotationSpeed / 100;
     }
 
-    // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         Rotation();
-
     }
 
     void Rotation()
@@ -34,15 +30,11 @@ public class CCTVRotation : MonoBehaviour
 
         if (CurrentAngle >= MaxAngle)
         {
-            rotationSpeed = -RotationSpeed / 10;
+            rotationSpeed = -RotationSpeed / 100;
         }
         else if (CurrentAngle <= MinAngle)
         {
-            rotationSpeed = RotationSpeed / 10;
-        }
-
-        
+            rotationSpeed = RotationSpeed / 100;
+        }   
     }
-
-
 }
